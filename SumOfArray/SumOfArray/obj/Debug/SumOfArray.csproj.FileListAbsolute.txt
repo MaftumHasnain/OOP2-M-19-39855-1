@@ -1,0 +1,6 @@
+E:\CSharp_GIT\SumOfArray\SumOfArray\bin\Debug\SumOfArray.exe.config
+E:\CSharp_GIT\SumOfArray\SumOfArray\bin\Debug\SumOfArray.exe
+E:\CSharp_GIT\SumOfArray\SumOfArray\bin\Debug\SumOfArray.pdb
+E:\CSharp_GIT\SumOfArray\SumOfArray\obj\Debug\SumOfArray.csproj.CoreCompileInputs.cache
+E:\CSharp_GIT\SumOfArray\SumOfArray\obj\Debug\SumOfArray.exe
+E:\CSharp_GIT\SumOfArray\SumOfArray\obj\Debug\SumOfArray.pdb

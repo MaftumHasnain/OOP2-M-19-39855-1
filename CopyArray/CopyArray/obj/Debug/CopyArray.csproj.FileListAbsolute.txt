@@ -1,0 +1,7 @@
+E:\CSharp_GIT\CopyArray\CopyArray\bin\Debug\CopyArray.exe.config
+E:\CSharp_GIT\CopyArray\CopyArray\bin\Debug\CopyArray.exe
+E:\CSharp_GIT\CopyArray\CopyArray\bin\Debug\CopyArray.pdb
+E:\CSharp_GIT\CopyArray\CopyArray\obj\Debug\CopyArray.csprojAssemblyReference.cache
+E:\CSharp_GIT\CopyArray\CopyArray\obj\Debug\CopyArray.csproj.CoreCompileInputs.cache
+E:\CSharp_GIT\CopyArray\CopyArray\obj\Debug\CopyArray.exe
+E:\CSharp_GIT\CopyArray\CopyArray\obj\Debug\CopyArray.pdb
